@@ -25,5 +25,17 @@ def student(request):
 
 
 def sumathi(request):
-    return render(request,'commen_templates/sumathi.html')    
+    return render(request,'commen_templates/sumathi.html')
+
+
+def css(request):
+    return render(request,'commen_templates/css.html')
+
+
+
+def css1(request):
+    return render(request,'commen_templates/css1.html')
+
+
+
 

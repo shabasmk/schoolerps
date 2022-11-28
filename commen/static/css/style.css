@@ -1,0 +1,22 @@
+.h{
+    color: blue;
+    font-size: larger;
+    background-color: black;
+}
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;   
+    font-stretch: expanded;
+    font-weight: 900;
+}
+div span{
+    color: blue;
+    font-size: larger;
+    background-color: black;
+}
+a[href="youtube.com"]{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;   
+    font-stretch: expanded;
+    font-weight: 900;
+}

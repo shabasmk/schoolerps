@@ -7,7 +7,10 @@ urlpatterns = [
     path('school',views.school,name='school_login'),
     path('teacher',views.teacher,name='teacher_login'),
     path('student',views.student,name='student_login'),
-    path('sumathi',views.sumathi,name='sumathi')
+    path('sumathi',views.sumathi,name='sumathi'),
+    path('css',views.css,name='css'),
+    path('css1',views.css1,name='css1')
+
 
 
 

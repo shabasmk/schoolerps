@@ -1,0 +1,7 @@
+span{
+    color:blue;
+    font-size:10px;
+}
+div span{
+    color:inherit;
+}
